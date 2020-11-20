@@ -1,15 +1,25 @@
 # Test notes for webdev
 ## Using markdown
 ### Headers
-1. L
-2. I
-3. S
-4. T
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
 
 *italic*
+
 **bold**
-> blockquote
 
-`code block`
+> blockquote test to show how amazingly talented you are about writing things in quote format
 
-[link](https://mbasedcyber.com)
+`print ("Hello World)"`
+
+`variable1 = 0`
+
+
+[Clicable link](https://mbasedcyber.com)
