@@ -5,4 +5,11 @@
 2. I
 3. S
 4. T
-*bold* or _bold_
+
+*italic*
+**bold**
+> blockquote
+
+`code block`
+
+[link](https://mbasedcyber.com)
